@@ -1,0 +1,133 @@
+body {
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    max-width: 80%;
+    margin: auto;
+    background-color: #fefae0;
+}
+
+main {
+
+
+    margin-top: 10px;
+}
+
+header {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    color: #03071e;
+    justify-content: space-evenly;
+    align-items: right;
+    font-family: cursive;
+
+}
+
+footer {
+    color: #03071e;
+
+    padding: 5px;
+    margin-top: 50px;
+    margin-bottom: 5px;
+    font-size: 12px;
+}
+
+h1 {
+    color: #283618;
+}
+
+h2 {
+    color: #606c38;
+}
+
+h3 {
+    color: #bc6c25;
+    font-style: italic;
+}
+
+p {
+    color: #bc6c25;
+}
+
+img {
+    border: #283618;
+    border-radius: 50%;
+}
+
+.main-div {
+    display: flex;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: nowrap;
+    align-content: flex-start;
+    gap: 50px;
+
+
+}
+
+.menuItem {
+    border-radius: 10px;
+    border-color: #283618;
+    border-style: solid;
+    border-width: 2px;
+    padding: 7px;
+    color: #283618;
+    text-decoration: none;
+
+}
+
+.imageMain {
+
+    padding: 5px 10px 5px 5px;
+
+}
+
+.mainContent {
+    padding: 5px 5px 5px 20px;
+}
+
+.memorialImg {
+    width: 500px;
+    border-radius: 30px;
+    color: #283618;
+}
+
+
+.memorialDiv {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    align-content: space-around;
+    background-image: url("/assests/yellow.jpeg");
+    background-size: 100% auto;
+}
+
+.petit-formal-script-regular {
+    font-family: "Petit Formal Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+.petit {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+
+
+/*Hex Codes: #ede0d4 // #e6ccb2 // #ddb892 // #7f5539 // #9c6644
+https: //venngage.com/blog/fall-color-palettes/
+
+*/
