@@ -50,8 +50,8 @@ p {
 }
 
 img {
-    border: #283618;
-    border-radius: 50%;
+
+    border-radius: 45%;
 }
 
 .main-div {
@@ -125,6 +125,11 @@ img {
     text-align: center;
 }
 
+.imageJourney {
+    text-align: center;
+    border-radius: 5%;
+    width: 50%;
+}
 
 
 /*Hex Codes: #ede0d4 // #e6ccb2 // #ddb892 // #7f5539 // #9c6644
